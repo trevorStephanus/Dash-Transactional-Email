@@ -1,0 +1,707 @@
+<mjml>
+ 
+  <mj-body>
+    <mj-container>
+    <mj-section background-color="#f2f2f3">
+      <mj-column width="100%">
+        <mj-text font-family="'helvetica neue','helvetica','arial',sans-serif"
+    line-height="1.4"
+    font-size="12px"
+    color="#c0c0c2"
+    align="center">
+          To ensure delivery to your inbox, please add <span style="color: #047dff;
+    text-decoration: none;"><a href="mailto:example@example.com" style="text-decoration: none; color: inherit;">info@DASH.com</a></span> to your address book.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      <mj-section>
+        <mj-column>
+          <!-- Heading -->
+          <mj-text
+            align="left"
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="22px"
+            padding="10px 0 10px 0"
+            text-transform="uppercase"
+            color="#888888"
+          >
+            YOUR ORDER
+            <span style="color: #047dff; font-weight: bold">3366633</span> IS
+            BEING <span style="font-weight: bold">PROCESSED</span>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section height="1" border-bottom="1px solid #e6e6e6">
+        <mj-column>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="14px"
+            font-weight="bold"
+            color="#242626"
+          >
+            Hi Craig,
+          </mj-text>
+
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="14px"
+            color="#242626"
+            padding-bottom="5px"
+          >
+            Thanks for shopping with
+            <span style="color: #047dff; font-weight: bold"><a href="https://trevorstephanus.github.io/DASH_Promotional_Email/" target="_blank" style="text-decoration: none; color: inherit;"> D A S H.</a></span>! We are
+            preparing your order for you.
+          </mj-text>
+
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="14px"
+            color="#242626"
+            >We'll email you whenever the status of your order changes.</mj-text
+          >
+
+          <mj-text line-height="1.1">
+            <p><strong
+              ><span
+                style="
+                  font-family: 'georgia', 'times', 'times new roman', serif;
+                  font-size: 12px;
+                  color: #c0c0c2;
+                  font-size: 14px;
+                  font-size: 14px;
+                "
+                >PLEASE NOTE:</span
+              ></strong
+            ></p>
+              <p>&#8226; Orders can't be cancelled once placed. If you would like to,
+                  you can log a free return once your product is delivered.</p>
+              <p>&#8226; The delivery address can't be changed once the order has been
+                  placed, as the information has already been sent to the
+                  warehouse for processing.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="14px"
+            font-weight="bold"
+            color="#282b2b"
+          >
+            Here are the details we have for your order:
+          </mj-text>
+
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="17px"
+            color="#888888"
+            font-weight="bold"
+          >
+            Order No. 3366633
+          </mj-text>
+
+          <mj-text
+            font-family="'georgia','times','times new roman',serif"
+            font-size="12px"
+            color="#c0c0c2"
+            font-style="italic"
+          >
+            Order Date:
+            <span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                font-size: 14px;
+                font-weight: bold;
+                color: #047dff;
+                font-size: 12px;
+              "
+              >04 APR 2024</span
+            >
+          </mj-text>
+
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="17px"
+            color="#242626"
+            font-weight="bold"
+            margin="14.11px 0"
+          >
+            Delivery 1
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            src="https://i.ibb.co/R9QqGmR/New-Balance-takkie.png"
+            alt="New Balance Takkie"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="17px"
+            color="#242626"
+            padding-bottom="10px"
+          >
+            New Balance - Men's 515 v3 Shoes
+          </mj-text>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="12px"
+            color="#c5c5c6"
+            font-weight="bold"
+            padding-bottom="0"
+          >
+            SIZE:
+            <span
+              style="
+                font-weight: bold;
+                text-transform: uppercase;
+                color: #242626;
+              "
+              >UK 6</span
+            >
+          </mj-text>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="12px"
+            color="#c5c5c6"
+            font-weight="bold"
+            padding-top="5px"
+            padding-bottom="5px"
+          >
+            QUANTITY:
+            <span
+              style="
+                font-weight: bold;
+                text-transform: uppercase;
+                color: #242626;
+              "
+              >1</span
+            >
+          </mj-text>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="12px"
+            color="#c5c5c6"
+            font-weight="bold"
+            padding-top="0"
+          >
+            PRICE PAID:
+            <span
+              style="
+                font-weight: bold;
+                text-transform: uppercase;
+                color: #242626;
+              "
+              >R 1,049.00</span
+            >
+          </mj-text>
+
+          <mj-text
+            font-family="'georgia','times','times new roman',serif"
+            color="#c0c0c2"
+            line-height="1.4"
+            font-style="italic"
+            font-weight="normal"
+          >
+            Item status:
+            <span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                font-size: 14px;
+                color: #888888;
+                line-height: 1.4;
+                font-size: 12px;
+                font-weight: normal;
+              "
+              >Processing</span
+            >
+          </mj-text>
+
+          <mj-text
+            font-family="'georgia','times','times new roman',serif"
+            font-size="12px"
+            color="#c0c0c2"
+            font-size="14px"
+            line-height="1.4"
+            font-style="italic"
+            font-weight="normal"
+          >
+            Returns Policy:
+            <span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                color: #888888;
+                line-height: 1.4;
+                font-size: 12px;
+                font-weight: normal;
+              "
+              >Free exchange or return within 30 days</span
+            >
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            src="https://i.ibb.co/pX43Cj2/Jacques-Bogart-Perfume.png"
+            alt="Jacques Bogart Spray For Him"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="17px"
+            color="#242626"
+            padding-bottom="10px"
+          >
+            Jacques Bogart - Silver Scent EDT Spray For Him
+          </mj-text>
+
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="12px"
+            color="#c5c5c6"
+            font-weight="bold"
+            padding-bottom="0"
+          >
+            SIZE:
+            <span
+              style="
+                font-weight: bold;
+                text-transform: uppercase;
+                color: #242626;
+              "
+              >100 ml</span
+            >
+          </mj-text>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="12px"
+            color="#c5c5c6"
+            font-weight="bold"
+            padding-top="5px"
+            padding-bottom="5px"
+          >
+            QUANTITY:
+            <span
+              style="
+                font-weight: bold;
+                text-transform: uppercase;
+                color: #242626;
+              "
+              >1</span
+            >
+          </mj-text>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="12px"
+            color="#c5c5c6"
+            font-weight="bold"
+            padding-top="0"
+          >
+            PRICE PAID:
+            <span
+              style="
+                font-weight: bold;
+                text-transform: uppercase;
+                color: #242626;
+              "
+              >R 715.00</span
+            >
+          </mj-text>
+
+          <mj-text
+            font-family="'georgia','times','times new roman',serif"
+            color="#c0c0c2"
+            line-height="1.4"
+            font-style="italic"
+            font-weight="normal"
+          >
+            Item status:
+            <span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                font-size: 14px;
+                color: #888888;
+                line-height: 1.4;
+                font-size: 12px;
+                font-weight: normal;
+              "
+              >Processing</span
+            >
+          </mj-text>
+
+          <mj-text
+            font-family="'georgia','times','times new roman',serif"
+            font-size="12px"
+            color="#c0c0c2"
+            font-size="14px"
+            line-height="1.4"
+            font-style="italic"
+            font-weight="normal"
+          >
+            Returns Policy:
+            <span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                color: #888888;
+                line-height: 1.4;
+                font-size: 12px;
+                font-weight: normal;
+              "
+              >Free exchange or return within 30 days</span
+            >
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            src="https://i.ibb.co/NxHLv5D/unnamed-1.png"
+            alt="Mason Grey Pots"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="17px"
+            color="#242626"
+            padding-bottom="10px"
+          >
+            Mason Grey - Serenity 7 Piece Cookware Set
+          </mj-text>
+
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="12px"
+            color="#c5c5c6"
+            font-weight="bold"
+            padding-bottom="0"
+          >
+            SIZE:
+            <span
+              style="
+                font-weight: bold;
+                text-transform: uppercase;
+                color: #242626;
+              "
+              >7 piece set</span
+            >
+          </mj-text>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="12px"
+            color="#c5c5c6"
+            font-weight="bold"
+            padding-top="5px"
+            padding-bottom="5px"
+          >
+            QUANTITY:
+            <span
+              style="
+                font-weight: bold;
+                text-transform: uppercase;
+                color: #242626;
+              "
+              >1</span
+            >
+          </mj-text>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="12px"
+            color="#c5c5c6"
+            font-weight="bold"
+            padding-top="0"
+          >
+            PRICE PAID:
+            <span
+              style="
+                font-weight: bold;
+                text-transform: uppercase;
+                color: #242626;
+              "
+              >R 899.00</span
+            >
+          </mj-text>
+
+          <mj-text
+            font-family="'georgia','times','times new roman',serif"
+            color="#c0c0c2"
+            line-height="1.4"
+            font-style="italic"
+            font-weight="normal"
+          >
+            Item status:
+            <span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                font-size: 14px;
+                color: #888888;
+                line-height: 1.4;
+                font-size: 12px;
+                font-weight: normal;
+              "
+              >Processing</span
+            >
+          </mj-text>
+
+          <mj-text
+            font-family="'georgia','times','times new roman',serif"
+            font-size="12px"
+            color="#c0c0c2"
+            font-size="14px"
+            line-height="1.4"
+            font-style="italic"
+            font-weight="normal"
+          >
+            Returns Policy:
+            <span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                color: #888888;
+                line-height: 1.4;
+                font-size: 12px;
+                font-weight: normal;
+              "
+              >Free exchange or return within 30 days</span
+            >
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section
+        border-bottom="1px solid #e6e6e6"
+        border-top="1px solid #e6e6e6"
+      >
+        <mj-column>
+          <mj-text
+            text-transform="uppercase"
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-weight="bold"
+            color="#c0c0c2"
+            font-size="12px"
+            padding-bottom="3px"
+          >
+            SCHEDULED DELIVERY DATE:
+          </mj-text>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="14px"
+            color="#888888"
+            line-height="1.4"
+            padding-top="0"
+            padding-bottom="17px"
+          >
+            FRI, 12 APR 2024
+          </mj-text>
+
+          <mj-text
+            text-transform="uppercase"
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-weight="bold"
+            color="#c0c0c2"
+            font-size="12px"
+            padding-bottom="3px"
+          >
+            DELIVERY TYPE:
+          </mj-text>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="14px"
+            color="#888888"
+            line-height="1.4"
+            padding-top="0"
+          >
+            Week-day (Friday)
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="17px"
+            color="#242626"
+            color="#888888"
+            font-weight="bold"
+          >
+            Delivey Details
+          </mj-text>
+
+          <mj-text
+            text-transform="uppercase"
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-weight="bold"
+            color="#c0c0c2"
+            font-size="12px"
+          >
+            DELIVERING TO:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-bottom="0">
+        <mj-column >
+          <!-- Address -->
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="14px"
+            color="#888888"
+            line-height="1.4"
+          >
+            Craig Adriaanse<br />
+            3 Corner Street<br />
+            Eagle Point<br />
+            Cape Town<br />
+            7965
+          </mj-text>
+
+          <!-- Contact Number -->
+          <mj-text
+            text-transform="uppercase"
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-weight="bold"
+            color="#c0c0c2"
+            font-size="12px"
+            padding-bottom="3px"
+          >
+            CONTACT NUMBER:
+          </mj-text>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="14px"
+            color="#888888"
+            padding-top="0"
+          >
+            0753428795
+          </mj-text>
+        </mj-column>
+
+        <!-- Right Column -->
+        <mj-column >
+          <!-- Sub-total -->
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="12px"
+            color="#c5c5c6"
+            font-weight="bold"
+            line-height="1.4"
+            align="center"
+          >
+            Sub-total
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                font-size: 12px;
+                font-weight: bold;
+                color: #242626;
+              "
+              >R 2,663.00 </span
+            ><br />
+            Delivery&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                font-size: 12px;
+                font-weight: bold;
+                color: #242626;
+              "
+              >R 55.00</span
+            ><br />
+            Discount&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                font-size: 12px;
+                font-weight: bold;
+                color: #242626;
+              "
+              >-R 553.00</span
+            ><br />
+            Wallet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                font-size: 12px;
+                font-weight: bold;
+                color: #242626;
+              "
+              >-R 2,100.00</span
+            ><br />
+          </mj-text>
+
+          <mj-divider
+            border-color="#e6e6e6"
+            border-width="1px"
+            margin="10px auto"
+          ></mj-divider>
+          <mj-text
+            font-family="'helvetica neue','helvetica','arial',sans-serif"
+            font-size="14px"
+            font-weight="bold"
+            color="#282b2b"
+            align="center"
+          >
+            Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R
+            65.00
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" background-color="#f2f2f3">
+        <mj-column>
+          <mj-text
+            font-family="'georgia','times','times new roman',serif"
+            font-size="12px"
+            color="#c0c0c2"
+            color="#888888"
+            font-style="italic"
+            font-size="14px"
+            align="right"
+          >
+            You Saved &nbsp;&nbsp;
+            <mj-raw >
+              <i
+                class="fas fa-hand-holding-usd"
+                      style="color: #047dff;"
+              ></i> </mj-raw>
+              <br /><br />
+            <span
+              style="
+                font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+                font-size: 14px;
+                line-height: 1.4;
+                color: #047dff;
+                font-weight: bold;
+              "
+              >R 689.00</span
+            >
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="35px" background-color="#f2f2f3">
+        <mj-column width="">
+        <mj-text align="center" font-family="'arial','helvetica neue','helvetica',sans-serif"
+    font-size="11px"
+    color="#c0c0c2"
+    line-height="13px">
+          D  A  S  H. Online (Pty) Ltd., 12th Floor, D  A  S  H. Building, 10 Rua Vasco Da Gama,<br> Foreshore, Cape Town, Western Cape, 8001, South Africa
+        </mj-text>
+          
+        </mj-column>
+      </mj-section>
+    </mj-container>
+
+    <mj-container>
+      <!-- Additional content for the second container if needed -->
+    </mj-container>
+  </mj-body>
+</mjml>
